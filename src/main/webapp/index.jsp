@@ -15,11 +15,12 @@
     <div>
         <div   class="flex justify-center items-center h-screen">
                     <a class="shadow-lg hover:shadow-2xl rounded-full" href="/registerUser">
-                        <img alt="Register new user" src="images/registerUser.png"></a>
+                        <img alt="Register new user" src="images/registerUser.png" title="Register User"></a>
 
-                    <a  class="shadow-lg hover:shadow-2xl rounded-full mx-20 "  href="/displayUsers">
-                        <img alt="Display Users" src="images/displayUser.png"></a>
+                    <a  class="shadow-lg hover:shadow-2xl rounded-full mx-20"  href="/displayUsers">
+                        <img alt="Display Users" src="images/displayUser.png" title="Display Users"></a>
         </div>
+
     </div>
 </body>
 </html>
